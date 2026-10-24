@@ -6,21 +6,21 @@ const initialPhotos = [
     title: "Your Gorgeous Smile",
     caption: "In your smile, I see something more beautiful than the stars.",
     romanticNote: "✨ Every time you smile, my entire world lights up.",
-    img: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=800"
+    img: "khadija pic.jpg"
   },
   {
     id: 2,
     title: "My Favorite Memory",
     caption: "Every single second spent with you feels like a dream come true.",
     romanticNote: "💖 Holding your hand is where I belong forever.",
-    img: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&q=80&w=800"
+    img: "khadija pic2.jpg"
   },
   {
     id: 3,
     title: "Forever & Always",
     caption: "I fell in love with you yesterday, love you still, always have, always will.",
     romanticNote: "🌹 You are my today and all of my tomorrows.",
-    img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800"
+    img: "khadija4pic.jpg"
   }
 ];
 
